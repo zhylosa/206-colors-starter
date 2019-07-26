@@ -63,6 +63,12 @@ footer {
     background-color:;
   }
 
+  .col-3 {
+  width: 50%;
+  height: 320px;
+  float: left;
+}
+
   #column-1 {
     background-color: Magenta;
   }
@@ -87,6 +93,12 @@ footer {
   header {
     background-color: ;
   }
+
+    .col-3 {
+  width: 33.33%;
+  height: 320px;
+  float: left;
+}
 
   #column-1 {
     background-color: Magenta;
